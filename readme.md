@@ -12,6 +12,8 @@ Snippet of python to do interesting stuff
  - `function_decorator.py` : function decorator example
  - `class_decorator.py` : class decorators
  - `metaclass.py` : metaclass example
+ - `factory.py` : class method as factory method 
+ - `abstract.py` : abstract base classes
 
 
 ## Advanced examples
